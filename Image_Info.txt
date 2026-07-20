@@ -1,0 +1,13 @@
+Dataset Information
+Size : 1.4 GB
+Amount : 87867 images
+Listed Plants : Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato
+Amount of Plants : 14 
+Categories : 38
+
+Image Information
+Image Size : 4.0 - 28.8 kB
+Image Format : Jpeg
+Image Channels : 3 (Red, Green, Blue)
+Image Dimensions : 256x256 Pixels
+
